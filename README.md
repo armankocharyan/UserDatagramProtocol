@@ -15,4 +15,4 @@ To Run the project:
 For the UML diagrams or the assignment description please check the UserDatagramProtocol main directory
 
 Note:
-Make sure all three programs are terminated before the launching the IntermediateHost -> Server -> Client
+Make sure all three programs are terminated before launching the IntermediateHost -> Server -> Client
